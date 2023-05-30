@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">L11_Ozen_58407_Mid2</string>
+    <string name="appInfo">Omer Ozen Midterm 2 App</string>
+    <string name="txtName">Name</string>
+    <string name="txtLastName">Last Name</string>
+    <string name="txtTown">Town</string>
+    <string-array name="towns">
+        <item>Warsaw</item>
+        <item>Istanbul</item>
+        <item>Berlin</item>
+        <item>Amsterdam</item>
+    </string-array>
+    <string name="saveMemory">Save Memory</string>
+    <string name="goToImg">Go To Images</string>
+    <string name="txtCalculator">Convertor</string>
+    <string name="txtMain">Main Menu</string>
+    <string name="txtMemory">Memory</string>
+    <string name="txtTemperature">Temperature:</string>
+
+    <string-array name="tempFormat">
+        <item>Celcius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string name="btnConvert">Convert</string>
+    <string name="workWith">Work With Memory - File System</string>
+</resources>
+

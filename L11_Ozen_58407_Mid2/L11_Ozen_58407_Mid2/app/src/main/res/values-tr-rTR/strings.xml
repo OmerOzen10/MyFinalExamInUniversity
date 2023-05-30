@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">L11_Ozen_58407_Mid2</string>
+    <string name="appInfo">Omer Ozen Yari Donem 2 Uygulama</string>
+    <string name="txtName">Ad</string>
+    <string name="txtLastName">Soyad</string>
+    <string name="txtTown">Sehir</string>
+    <string name="saveMemory">Hafizaya Kaydet</string>
+    <string name="goToImg">Resimlere Git</string>
+    <string name="txtCalculator">Donusturucu</string>
+    <string name="txtMain">Ana Menu</string>
+    <string name="txtMemory">Hafiza</string>
+    <string name="txtTemperature">Hava Sicakligi:</string>
+    <string name="btnConvert">Donustur</string>
+    <string name="workWith">Hafiza ile Calis - File Sistemi</string>
+</resources>
